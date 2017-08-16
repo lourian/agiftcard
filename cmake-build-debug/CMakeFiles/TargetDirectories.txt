@@ -1,0 +1,3 @@
+C:/dev/lourian/a_gift_card/cmake-build-debug/CMakeFiles/bd_gift_card.dir
+C:/dev/lourian/a_gift_card/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/dev/lourian/a_gift_card/cmake-build-debug/CMakeFiles/rebuild_cache.dir

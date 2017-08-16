@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\bd_gift_card.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\bd_gift_card.dir/objects.a @CMakeFiles\bd_gift_card.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -pthread -fpermissive -g   -Wl,--whole-archive CMakeFiles\bd_gift_card.dir/objects.a -Wl,--no-whole-archive  -o bd_gift_card.exe -Wl,--out-implib,libbd_gift_card.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bd_gift_card.dir\linklibs.rsp
